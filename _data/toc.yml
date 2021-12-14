@@ -1,9 +1,11 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
+    - title: "Getting Started teste"
       url: "docs/getting-started"
       children:
+        - title: Cap 14.1 - Introdução
+         url: "docs/getting-started#Cap14_2_Intro"
         - title: Features
           url: "docs/getting-started#getting-started"
         - title: Development
