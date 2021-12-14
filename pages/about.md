@@ -12,14 +12,23 @@ A primeira turma no segundo semestre de 2021.
 Os alunos da disciplina são:
 
 Flávia Neiva Lamim
+
 Heitor Ribeiro de Assis
+
 Paula Gomes Pereira 
+
 Sidney Pinhiero Duarte
+
 Yago Cruz dos Santos
+
 Gustavo Oliveira da Silva
+
 Renan Silva de Araújo
+
 Guilherme Camanho Costa
+
 Orlando Luiz de Oliveira
+
 Brunna Medeiros
 
 
