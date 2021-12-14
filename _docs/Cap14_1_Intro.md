@@ -69,14 +69,15 @@ Consequentemente, não se estabilizam no estado sólido. 2 Ou seja, a energia po
 da interação entre os átomos de hélio é muito pequena, e como átomos de hélio têm
 uma massa pequena, o movimento devido à energia de ponto zero é grande, tão
 grande, que a energia cinética é maior que a energia potencial da interação, o que
-impede que o material se solidifique. 3 Três anos depois de conseguir liquefazer o Hélio, Karmeling descobriu que, para
+impede que o material se solidifique. 3 Três anos depois de conseguir liquefazer o
+ Hélio, Karmeling descobriu que, para
 alguns materiais, existe uma temperatura crítica , abaixo da qual a resistividade
 elétrica é nula, tornando-se um supercondutor. 
 
 A experiência de Karmeling foi
 realizada com mercúrio, cuja temperatura crítica mostrava-se da ordem de 4,2K. Na
-ocasião, Onnes percebeu que a resistividade do mercúrio repentinamente tornava-
-se nula quando atingia essa temperatura. A temperatura crítica varia de material para
+ocasião, Onnes percebeu que a resistividade do mercúrio repentinamente tornava-se 
+nula quando atingia essa temperatura. A temperatura crítica varia de material para
 material, mas abaixo dessa temperatura a resistência elétrica é tão pequena que não
 pode ser medida.
 
@@ -103,25 +104,22 @@ líquido como refrigerante no lugar do hélio líquido, que é mais caro e difí
 manipular. Entretanto, os supercondutores cerâmicos são extremamente quebradiços,
 o que dificulta seu uso em aplicações práticas.
 
-2 Referência [3].
-3 Referência [2]. Pag. 356.
-
 Estudos recentes mostraram que alguns materiais podem se tornar
-supercondutores em temperaturas muito próximas da temperatura ambiente quando
-sujeitos a pressões muito altas.
+supercondutores em temperaturas muito próximas da temperatura ambiente quando
+sujeitos a pressões muito altas.
 
-4
+
 Uma pergunta que se pode fazer é qual a relação entre supercondutividade e
-temperatura. Como sabemos, metais em geral são bons condutores de eletricidade.
-Isso se deve à sua resistividade ser baixa. No entanto, se aquecidos, os metais passam
+temperatura. Como sabemos, metais em geral são bons condutores de eletricidade.
+Isso se deve à sua resistividade ser baixa. No entanto, se aquecidos, os metais passam
 a não ser mais tão bons condutores de corrente elétrica quanto antes, em virtude
-do aumento da vibração de seus átomos. A oscilação desses átomos faz com que
-ocorram mais colisões com os elétrons da corrente elétrica, dificultando sua passagem.
+do aumento da vibração de seus átomos. A oscilação desses átomos faz com que
+ocorram mais colisões com os elétrons da corrente elétrica, dificultando sua passagem.
 Ao passo que, se refrigerados, os metais passam a conduzir ainda mais facilmente do
 que à temperatura ambiente. Resfriando cada vez mais os metais, chegaremos a um
 ponto em que não haverá resistência à passagem da eletricidade.
 
-5
+
 A maioria das aplicações dos supercondutores fazem uso da resistividade nula,
 sinônimo de eficiência máxima em alguns aparelhos elétricos, como por exemplo
 geradores de eletricidade e cabos de transmissão, que não têm perda de energia
@@ -135,7 +133,7 @@ aplicação ainda está longe de ser economicamente viável devido ao alto custo
 dificuldade técnica de se refrigerar vários quilômetros de cabos supercondutores a
 temperaturas criogênicas.
 
-6
+
 Como a resistividade dos supercondutores é nula, pode existir uma corrente
 elétrica no material mesmo na ausência de campos elétricos. Correntes como essa são
 denominadas de supercorrentes. Pesquisadores tem mantido supercorrentes por
@@ -150,36 +148,4 @@ macroscópicas de leis da mecânica quântica e, em cada caso, a estatística de
 de Bose, determina as regras de comportamento.
 
 
-
-
-# A Nested Page
-
-This is an example of a page that doesn't have a permalink defined, and
-is not included in the table of contents (`_data/toc.yml`). This means
-that it will render based on it's path. Since it's in `docs/example-page.md`,
-the url will be `docs/example-page/`.
-
-## Link to a subfolder
-
-Now let's say we want to link to a subfolder, specifically with this
-setup:
-
-```
-docs/
-  example-page.md  (-- we are here
-  subfolder/
-     example-page.md  (-- we want to link here
-```
-
-You can provide the relative path to the file, like `subfolder/example-page.md`
-and Jekyll will handle parsing it. For example:
-
- - [here is that link](subfolder/example-page)
- 
-And {% include doc.html name="here" path="subfolder/example-page" %} is the same link, 
-but generated with the include statement:
-
-```
-{% raw %}{% include doc.html name="here" path="subfolder/example-page" %}{% endraw %}
-```
 
