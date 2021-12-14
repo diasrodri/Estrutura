@@ -29,9 +29,9 @@ baseurl: "/Estrutura_da_materia_II_2021_03" # the subpath of your site, e.g. /bl
 url: "https://diasrodri.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
+repo: "https://github.com/diasrodri/Estrutura_da_materia_II_2021_03"
+github_user: "diasrodri"
+github_repo: "Estrutura_da_materia_II_2021_03"
 github_branch: "master"
 
 # Optional
