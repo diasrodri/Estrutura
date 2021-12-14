@@ -23,7 +23,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
-baseurl: "/Estrutura" # the subpath of your site, e.g. /blog
+baseurl: "/Estrutura_da_materia_II_2021_03" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://diasrodri.github.io" # the base hostname & protocol for your site
