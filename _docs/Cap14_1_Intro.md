@@ -108,7 +108,6 @@ Estudos recentes mostraram que alguns materiais podem se tornar
 supercondutores em temperaturas muito próximas da temperatura ambiente quando
 sujeitos a pressões muito altas.
 
-
 Uma pergunta que se pode fazer é qual a relação entre supercondutividade e
 temperatura. Como sabemos, metais em geral são bons condutores de eletricidade.
 Isso se deve à sua resistividade ser baixa. No entanto, se aquecidos, os metais passam
@@ -118,7 +117,6 @@ ocorram mais colisões com os elétrons da corrente elétrica, dificultando sua 
 Ao passo que, se refrigerados, os metais passam a conduzir ainda mais facilmente do
 que à temperatura ambiente. Resfriando cada vez mais os metais, chegaremos a um
 ponto em que não haverá resistência à passagem da eletricidade.
-
 
 A maioria das aplicações dos supercondutores fazem uso da resistividade nula,
 sinônimo de eficiência máxima em alguns aparelhos elétricos, como por exemplo
@@ -132,7 +130,6 @@ a transmissão de energia elétrica das estações geradoras para as cidades. Co
 aplicação ainda está longe de ser economicamente viável devido ao alto custo e à
 dificuldade técnica de se refrigerar vários quilômetros de cabos supercondutores a
 temperaturas criogênicas.
-
 
 Como a resistividade dos supercondutores é nula, pode existir uma corrente
 elétrica no material mesmo na ausência de campos elétricos. Correntes como essa são
