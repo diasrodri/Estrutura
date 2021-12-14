@@ -265,3 +265,38 @@ de 1,8mK.
 
 Em 1996, Lee, Oscheroff e Richardson, receberam o prêmio Nobel por suas
 descobertas.
+
+
+
+Exercícios
+1) O que são supercondutores? Quais suas aplicações?
+2) O que são superfluidos?
+3) Por que o hélio se transforma em superfluido enquanto fases líquidas de outros
+bósons não?
+4) Quais vantagens encontramos em utilizar materiais supercondutores com
+temperaturas críticas mais elevadas em aplicações tecnológicas?
+5) Resumidamente, explique os efeitos:
+a) Efeito Filme Migrante;
+b) Efeito Termomecânico;
+c) Efeito Fonte;
+6) Por que átomos do isótopo de Hélio 3 podem formar condensados de Bose-
+Einstein, apesar de terem spins semi-inteiros?
+7) Identifique as principais diferenças entre as características do hélio I e do hélio
+II.
+
+Referências
+[1] LIMA, Carlos R. A. “Notas de Aula de Estrutura da Matéria”. Superfluidez e
+Supercondutividade. Edição de Janeiro de 2013
+[2] TIPLER. Paul A. LLEWELLYN. Ralph A. “Física Moderna”. 6 Ed. RJ. LTC, 2017. Acesso:
+https://drive.google.com/file/d/1czY2luWGEH0XyybeIrzpAVgiXXDKji8C/view
+[3] MINKEL. JR. “Strange but True: Superfluid Helium Can Climb Walls”. Scientific
+American, 2009. Disponível em: https://www.scientificamerican.com/article/superfluid-
+can-climb-walls/. Acesso em 29 de outubro de 2021.
+[4] HELERBROCK, Rafael. &quot;Supercondutores&quot;; Brasil Escola. Disponível em:
+https://brasilescola.uol.com.br/fisica/os-supercondutores.htm. Acesso em 29 de
+outubro de 2021.
+[5] BRANÍCIO. Paulo S. “Introdução à supercondutividade, suas aplicações e a mini-
+revolução provocada pela redescoberta do MGB2: uma abordagem didática”. SciELO
+Brasil, 2001. Disponível em:
+https://www.scielo.br/j/rbef/a/8CSJ5zLMH4ZJdndBGBKJdwg/?lang=pt . Acesso em 29
+de outubro de 2021.
