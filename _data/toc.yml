@@ -4,8 +4,8 @@
     - title: "Getting Started teste"
       url: "docs/getting-started"
       children:
-        - title: "Cap 141  Introducao"
-         url: "docs/getting-started#Cap14_2_Intro"
+        - title: Features
+          url: "docs/getting-started#getting-started"
         - title: Features
           url: "docs/getting-started#getting-started"
         - title: Development
