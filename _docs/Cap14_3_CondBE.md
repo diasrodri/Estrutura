@@ -16,13 +16,12 @@ Viu-se no capítulo 12 que, para qualquer estatística, a densidade de estados d
 um sistema de partıculas de massa $m$ seria
 
 {% raw %}
-  $$ D_m(ε) = \frac{ m^{3/2} }{ \sqrt{2}\pi^2\hbar^3 } V ε^{1/2} = A V ε^{1/2} $$ 
- {% endraw %} (14.1)
-
-
-{% raw %}
   $$D_m(ε) = \frac{ m^{3/2} }{ \sqrt{2}\pi^2\hbar^3 } V ε^{1/2}$$ 
  {% endraw %}
+
+{% raw %}
+  $$D_m(ε) = A V ε^{1/2}$$ 
+ {% endraw %}(14.1)
 
 onde $V$ e o volume do sistema e $A = m^{3/2}/\sqrt{2}\pi^2\hbar^3$
 
