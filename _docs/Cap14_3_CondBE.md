@@ -3,14 +3,9 @@ title: Capítulo 14.3 - Condensado de Bose-Einstein
 description: Condensado de Bose-Einstein.
 ---
 
-
+Heitor Ribeiro - October 2021
 
 ### 14.3 - Condensado de Bose-Einstein
-
-Heitor Ribeiro
-October 2021
-
-Condensado De Bose-Einstein
 
 Viu-se no capítulo 12 que, para qualquer estatística, a densidade de estados de energia $ε$ para
 um sistema de partıculas de massa $m$ seria
