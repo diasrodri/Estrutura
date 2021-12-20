@@ -16,35 +16,17 @@ Viu-se no capítulo 12 que, para qualquer estatística, a densidade de estados d
 um sistema de partıculas de massa $m$ seria
 
 {% raw %}
-  $$D_m(E) = 3/2 m \sqrt{2\pi}$$ 
-{% endraw %}
- 
+  $$D_m(ε) = \frac{m^{3/2}}{\sqrt{2}\pi^2\hbar^3} V ε^{1/2} = A V ε^{1/2} $$ 
+{% endraw %} (14.1)
 
-Dm(ε) = m3/2
-√
-2π
-2ħ
-3
-V ε1/2 = AV ε1/2
+onde $V$ e o volume do sistema e $A = m^{3/2}/\sqrt{2}\pi^2\hbar^3$
 
-, (14.1)
+Para um gas em condições normais, geralmente a diferença entre as distribuições de
+Maxwell-Boltzmann e Bose-Einstein é pequena. Isso ocorre porque nestes casos a densidade de
+partículas $\rho$ é pequena ou porque o volume $V = N/\rho$ ́é grande, de modo que há um número elevado de estados quânticos por partícula, ou seja, uma alta densidade de estados $D_m (ε)$.
+No caso do Helio lıquido, entretanto, a temperatura T é baixa e o comprimento de onda
+térmico de de Broglie, $\lambda_{th} ∝ T^{-1/2}$, dada na eq.(12.75) do Capítulo 12, não e pequeno o suficiente para que usemos a estatística clássica.
 
-onde V  ́e o volume do sistema e A =
-m3/2
-√
-2π2ħ3
-.
-
-Para um g ́as em condi ̧c ̃oes normais, geralmente a diferen ̧ca entre as distribui ̧c ̃oes de
-Maxwell-Boltzmann e Bose-Einstein  ́e pequena. Isso ocorre porque nestes casos a densidade de
-part ́ıculas ρ  ́e pequena ou porque o volume V = N/ρ  ́e grande, de modo que h ́a um n ́umero elevado
-de estados quˆanticos por part ́ıcula, ou seja, uma alta densidade de estados Dm(ε).
-No caso do Helio lıquido, entretanto, a temperatura T  ́e baixa e o comprimento de onda
-t ́ermico de de Broglie, λth ∝ T
-−1/2
-, dada no Cap ́ıtulo 12, n ̃ao  ́e pequeno o suficiente para que
-
-usemos a estat ́ıstica cl ́assica.
 A ideia ousada de que o H ́elio l ́ıquido pode ser tratado como um g ́as ideal que obedece a
 distribui ̧c ̃ao de Bose-Einstein foi proposta em 1928 por F. London na tentativa de compreender o
 comportamento do h ́elio a baixas temperaturas.
