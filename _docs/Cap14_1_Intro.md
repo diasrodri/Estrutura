@@ -3,7 +3,7 @@ title: Capítulo 14 - Introdução
 description: Superfluidez e Supercondutividade.
 ---
 
-### 14.1 Introdução
+Exemplos de equação latex remover depois.
 
 $$\LaTeX code$$   (for display)
 
@@ -18,6 +18,13 @@ $$\LaTeX code$$   (for display)
 note that all equations  \[$ d^2 \vec{c}$\] between these tags will not need escaping! 
 
 \[$ d^2 \vec{c}$\]
+
+Exemplos de equação latex remover depois.
+
+{% include alert.html type="info" title="Here is another!" %}
+
+
+### 14.1 Introdução
  
 Supercondutividade e superfluidez fazem parte de uma galeria de fenômenos
 mais notáveis que são observados na matéria. Substâncias com essas propriedades são

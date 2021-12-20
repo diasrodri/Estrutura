@@ -6,8 +6,8 @@ description: Superfluidez e Supercondutividade.
 
 ### 14.2 Aspectos Experimentais de Superfluidos
 
-O se liquefaz a uma temperatura abaixo de 4,2K em condições normais de
-pressão. Numa temperatura entre 4,2K e 2,2K, o se comporta como muitos outros
+O se liquefaz a uma temperatura abaixo de $4,2K$ em condições normais de
+pressão. Numa temperatura entre $4,2K$ e $2,2K$, o se comporta como muitos outros
 líquidos embora tenha uma tensão superficial excepcionalmente baixa e seja
 extremamente transparente.
 Em 1924 Kamerling Onnes e J. Boks descobriram que a curva da densidade do
@@ -22,7 +22,7 @@ Figura 1 4.1 - Comportamento em função da temperatura
 
 da (a) densidade (b) calor específico do
 
-Por causa da semelhança do gráfico com a letra grega λ, a temperatura crítica
+Por causa da semelhança do gráfico com a letra grega $\lambda$, a temperatura crítica
 foi denominada de ponto lambda.
 Abaixo da temperatura , o comporta-se de forma diferente, pois torna-se um
 superfluido. Acima do ponto lambda, o tem forte ebulição e, abaixo deste, cessa esse
