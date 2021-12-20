@@ -5,7 +5,6 @@ description: Superfluidez e Supercondutividade.
 
 ### 14.1 Introdução
 
-
 $$\LaTeX code$$   (for display)
 
 \\[\LaTeX code\\] (also for display)
@@ -28,8 +27,8 @@ quando foram descobertas, causaram profundo espanto a ponto de se pensar que
 poderiam ser oriundos de falhas experimentais.
 
 Em 1908, o físico holandês H. Kamerling Onnes, pela primeira vez, conseguiu
-liquefazer o Hélio, condensando assim o último elemento que persistia em ficar no
-estado gasoso. Kamerling utilizou hidrogênio líquido para resfriar uma amostra de
+**liquefazer o Hélio**, condensando assim o último elemento que persistia em ficar no
+estado gasoso. Kamerling utilizou **hidrogênio líquido** para resfriar uma amostra de
 Hélio e um termômetro de Hélio gasoso a volume constante para medir a
 temperatura. Passadas muitas horas de resfriamento, a temperatura da amostra de
 hélio, que estava sendo medida com o termômetro tinha parado de descer. Além
@@ -39,25 +38,25 @@ temperatura se mantinha constante porque o termômetro estava imerso em um
 líquido em equilíbrio com o hélio gasoso. Como estava transparente, não poderia ser
 visto. Por sugestão do visitante, o recipiente de vidro onde estava sendo realizado o
 experimento foi iluminado por baixo e a interface gás-líquido se tornou perfeitamente
-visível! 1 A condensação da amostra ocorrera a uma temperatura de 4,2K. Nessa
+visível! A condensação da amostra ocorrera a uma temperatura de $$4,2K$$. Nessa
 temperatura, o hélio líquido apresentava uma forte ebulição.
 
 Dias mais tarde, Karmeling conseguiu resfriar o Hélio ainda mais, chegando a
-2,17K, ponto em que a ebulição cessou abruptamente. É nessa temperatura que o
+$$2,17K$$, ponto em que a ebulição cessou abruptamente. É nessa temperatura que o
 Hélio apresenta característica de superfluido, mas Karmeling não relatou nada a
 respeito em nenhum de seus artigos. Na verdade, somente um quarto de século
 depois é que o fenômeno foi citado na literatura.
 
-A uma temperatura de 2,17K, ocorre uma transição de fase na qual o Hélio se
+A uma temperatura de $$2,17K$$, ocorre uma transição de fase na qual o Hélio se
 transforma em um superfluido, ou seja, torna-se uma substância de viscosidade nula,
 capaz de escoar sem nenhuma resistência. Os dois isótopos naturais do hélio, e
-apresentam esta propriedade. A transição de fase superfluida do ocorre a 2,17K. No ,
-que constitui apenas do hélio natural, esse efeito acontece a 2mK. Fases líquidas de
+apresentam esta propriedade. A transição de fase superfluida do ocorre a $$2,17K$$. No ,
+que constitui apenas do hélio natural, esse efeito acontece a $$2mK$$. Fases líquidas de
 outros bósons não se transformam em superfluidos porque todos esses outros
 sistemas se solidificam a temperaturas muito maiores que a temperatura crítica para a
 condensação de Bose-Einstein; já o hélio permanece líquido em temperaturas
 próximas do zero absoluto, temperatura na qual os átomos teoricamente param de se
-mover.(1 Referência [2]. Pag. 355.)
+mover.
 
 Quando a maioria dos líquidos é resfriada, a leve atração entre os átomos do
 fluido finalmente começa a superar as vibrações de calor e as partículas se acomodam
@@ -69,23 +68,18 @@ Consequentemente, não se estabilizam no estado sólido. 2 Ou seja, a energia po
 da interação entre os átomos de hélio é muito pequena, e como átomos de hélio têm
 uma massa pequena, o movimento devido à energia de ponto zero é grande, tão
 grande, que a energia cinética é maior que a energia potencial da interação, o que
-impede que o material se solidifique. 3 Três anos depois de conseguir liquefazer o
- Hélio, Karmeling descobriu que, para
-alguns materiais, existe uma temperatura crítica , abaixo da qual a resistividade
-elétrica é nula, tornando-se um supercondutor. 
+impede que o material se solidifique. Três anos depois de conseguir liquefazer o
+ Hélio, Karmeling descobriu que, para alguns materiais, existe uma temperatura crítica , abaixo da qual a resistividade elétrica é nula, tornando-se um supercondutor. 
 
-A experiência de Karmeling foi
-realizada com mercúrio, cuja temperatura crítica mostrava-se da ordem de 4,2K. Na
-ocasião, Onnes percebeu que a resistividade do mercúrio repentinamente tornava-se 
-nula quando atingia essa temperatura. A temperatura crítica varia de material para
+A experiência de Karmeling foi realizada com mercúrio, cuja temperatura crítica mostrava-se da ordem de 4,2K. Na ocasião, Onnes percebeu que a resistividade do mercúrio repentinamente tornava-se nula quando atingia essa temperatura. A temperatura crítica varia de material para
 material, mas abaixo dessa temperatura a resistência elétrica é tão pequena que não
 pode ser medida.
 
 As temperaturas críticas de outros elementos supercondutores variam de
-menos de 0,1K para o háfnio e o irídio até 9,2K para o nióbio.
+menos de $$0,1K$$ para o háfnio e o irídio até $$9,2K$$ para o nióbio.
 Existem vários compostos metálicos supercondutores, com temperaturas
 críticas relativamente altas. Por exemplo, a liga supercondutora de , descoberta em
-1973, tem uma temperatura crítica de 23,2K, a mais alta conhecida até 1986. Apesar
+1973, tem uma temperatura crítica de $$23,2K$$, a mais alta conhecida até 1986. Apesar
 do alto custo e dificuldade na refrigeração com hélio líquido, esses materiais tem sido
 usados em diversas aplicações, tais como construção de imãs, capazes de produzir
 campos magnéticos intensos para uso na medicina ( ressonância magnética ) e na física
@@ -93,13 +87,13 @@ campos magnéticos intensos para uso na medicina ( ressonância magnética ) e n
 
 Em 1986, os físicos alemão e suíço, Johannes Georg Bednorz e Karl Alex Muller,
 descobriram que os óxidos de lantânio, bário e cobre se tornavam supercondutores a
-30K. Um ano depois, verificou-se que o composto de Y apresentava uma temperatura
-crítica de 97K. Desde então vários outros óxidos de cobre com temperaturas críticas
+$$30K$$. Um ano depois, verificou-se que o composto de Y apresentava uma temperatura
+crítica de $$97K$$. Desde então vários outros óxidos de cobre com temperaturas críticas
 elevadas foram descobertos.
 
 Por fim, a descoberta de supercondutores cerâmicos revolucionou o estudo da
 supercondutividade uma vez que vários desses permanecem supercondutores acima
-de 77K, que é a temperatura de ebulição do nitrogênio líquido. Isso permite usar esse
+de $$77K$$, que é a temperatura de ebulição do nitrogênio líquido. Isso permite usar esse
 líquido como refrigerante no lugar do hélio líquido, que é mais caro e difícil de
 manipular. Entretanto, os supercondutores cerâmicos são extremamente quebradiços,
 o que dificulta seu uso em aplicações práticas.
