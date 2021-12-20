@@ -15,8 +15,8 @@ um sistema de partıculas de massa $m$ seria
  {% endraw %}
 
 {% raw %}
-  $$D_m(ε) = A V ε^{1/2}$$ 
- {% endraw %}              (14.1)
+  $$D_m(ε) = A V ε^{1/2}$$ (14.1)
+ {% endraw %}              
 
 onde $V$ e o volume do sistema e $A = m^{3/2}/\sqrt{2}\pi^2\hbar^3$
 
