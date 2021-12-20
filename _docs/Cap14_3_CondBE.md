@@ -40,132 +40,91 @@ semelhantes a do Hélio I (Hélio com $T > T_c$), e um superfluido de propriedad
 
 A densidade $\rho_{II}$ do Hélio II seria, então,
 
-$\rho_{II} = \rho_{s} + \rho_{n}$,
+{% raw %}
+  $$\rho_{II} = \rho_{s} + \rho_{n}$$ 
+ {% endraw %}(14.2)
 
-onde $\rho_{s}$é a densidade do superfluido e $\rho_{n}$é a densidade do fluido normal. Quando a temperaturaé reduzida a partir do ponto $\lambada$, a fração da fase super-fluida aumenta e a fração do fluido normal diminui, até restar somente a fase super-fluida no zero absoluto $(T = 0)$.
+onde $\rho_{s}$é a densidade do superfluido e $\rho_{n}$é a densidade do fluido normal. Quando a temperaturaé reduzida a partir do ponto $\lambda$, a fração da fase super-fluida aumenta e a fração do fluido normal diminui, até restar somente a fase super-fluida no zero absoluto $(T = 0)$.
 
-Na fase super-fluida, todos os  ́atomos de Hélio se encontram no estado de menor energia,
+Na fase super-fluida, todos os átomos de Hélio se encontram no estado de menor energia,
 o estado fundamental.
-Nãoé ́obvio que o Hélio líquido comporte-se como um gás ideal, já queé de se esperar
-que exista interção entre átomos. No entanto, os  ́atomos de Hélio interagem somente por forças
+Não é óbvio que o Hélio líquido comporte-se como um gás ideal, já queé de se esperar
+que exista interção entre átomos. No entanto, os átomos de Hélio interagem somente por forças
 de Van der Walls, que são de pouca intensidade. Além disso, a baixa densidade do Hélio líquido
 ($0,145g/cm^3$ nas vizinhanças do ponto $\lambda$) sugere que a distância entre átomos seja relativamente grande. Assim, o modelo do gáas ideal para o Hélio léquido deve constituir-se de uma aproximação razoável.
 
 No capítulo 12 concluiu-se ainda que, para uma distribuiçao de Bose-Einstein, o número
 de partículas com energia $ε$ é dado por
 
-N =
-X
-ε
-nBE(ε) = X
-ε
-1
-e
-βε+α − 1
-. (14.3)
-Como se fez com f ́ermions, poderia-se em princípio substituir a distribui çao discreta por
-uma distribui çao contínua, uma vez que, em geral, os níveis de energia s ̃ao numerosos e est ̃ao muito
-pr ́oximos. Ocorre, por ́em, que quando substitui-se a distribui çao discreta por uma distribui çao
-contínua, o estado fundamental desaparece. Isso pode ser visto, por exemplo, na equa çao (14.3),
-onde Dn(ε) ∝ ε
-1/2
-e, portanto, Dn(ε) = 0 para ε = 0.
-Este fato n ̃ao  ́e importante para um g ́as constituído por f ́ermions, j ́a que cada estado
-espacial n ̃ao pode ser ocupado por mais de duas partículas e, portanto, n ̃ao h ́a problemas em
-ignorar duas partículas em por exemplo 1022. Quando o g ́as  ́e constituído por b ́osons, por ́em, n ̃ao
-existe nenhuma restri çao quanto ao n ́umero de partículas que podem ocupar o mesmo estado.
-Particularmente, no H ́elio líquido, os estado de mais baixa energia, principalmente o estado
-fundamental, s ̃ao importantes.
-O n ́umero de ocupa çoes N0 do estado fundamental ε0 pode ser calculado a partir da
-equa çao (14.3), assumindo-se uma condi çao de contorno de ondas progressivas para partículas no
-interior de uma caixa grande de comprimento L, onde ε0 = 0, isto  ́e,
+{% raw %}
+  $$N = \sum_{ε}n_{BE}(ε) = \sum_{ ε } \frac{ 1 }{ \exp{\beta ε +\alpha } - 1}$$ 
+ {% endraw %}(14.3)
 
-N0 = (e
-α − 1)−1
-. (14.4)
-Evidentemente, pode-se assumir α > 0 tal que N0  ́e finito e positivo para b ́osons. E bom  ́
-lembrar que, no caso de f ́ermions a baixas temperaturas, α < 0, pois este  ́e proporcional ao negativo
-da energia de Fermi (α = −βεF ). Entretanto, nesses casos, N0 = (e
+Como se fez com férmions, poderia-se em princípio substituir a distribuição discreta por
+uma distribuição contínua, uma vez que, em geral, os níveis de energia são numerosos e estão muito próximos. Ocorre, porém, que quando substitui-se a distribuição discreta por uma distribuiçãao contínua, o estado fundamental desaparece. Isso pode ser visto, por exemplo, na equação (14.3), onde $D_n(ε) ∝ ε^{1/2}$ e, portanto, $D_n(ε) = 0$ para $ε = 0$.
 
-α + 1)−1 > 0. Se α  ́e muito
+Este fato não é importante para um gás constituído por férmions, já que cada estado
+espacial não pode ser ocupado por mais de duas partículas e, portanto, não há problemas em
+ignorar duas partículas em por exemplo 1022. Quando o gás é constituído por bósons, porém, não
+existe nenhuma restri çao quanto ao número de partículas que podem ocupar o mesmo estado.
+Particularmente, no Hélio líquido, os estado de mais baixa energia, principalmente o estado
+fundamental, são importantes.
 
-pequeno, em particular α = 1/N, da expans ̃ao em s ́erie e
+O número de ocupa çoes $N_0$ do estado fundamental $ε_0$ pode ser calculado a partir da
+equaçãoo (14.3), assumindo-se uma condiçãoo de contorno de ondas progressivas para partículas no
+interior de uma caixa grande de comprimento $L$, onde $ε_0 = 0$, isto é,
 
-α = 1 + α + α
+{% raw %}
+  $$N_0 = (\exp{\alpha } - 1)^{-1}$$ 
+ {% endraw %}(14.4)
 
-2/2! + · · · ≈ 1 + 1/N, a
+Evidentemente, pode-se assumir $α > 0$ tal que $N_0$ é finito e positivo para bósons. E bom lembrar que, no caso de férmions a baixas temperaturas, $α < 0$, pois este é proporcional ao negativo da energia de Fermi $(α = -\beta ε_F )$. Entretanto, nesses casos, $N_0 = (\exp{\alpha } - 1)^{-1}$. Se $α$ é muito pequeno, em particular $α = 1/N$, da expansão em série 
+$\exp{α} = 1 + α + α^2 + ··· ≈ 1 + 1/N$, a equação (14.4) torna-se
 
-equa çao (14.4) torna-se
+{% raw %}
+  $$N_0 ≈ (1 + 1/N - 1)^{-1}=N$$ 
+ {% endraw %}(14.5)
 
-2
+O número de partículas N para qualquer valor de α, dado na equa çao (14.3), pode ser
+reescrito então como
 
-N0 ≈ (1 + 1
-N
-− 1)−1 = N. (14.5)
-O n ́umero de partículas N para qualquer valor de α, dado na equa çao (14.3), pode ser
-reescrito ent ̃ao como
+{% raw %}
+  $$N = N_0 + \sum_{ε\ne 0} \frac{ 1 }{ \exp{\beta ε +\alpha } - 1}$$ 
+ {% endraw %}(14.6)
 
-N = N0 +
-X
-ε̸=0
-1
-e
-βε+α − 1
-. (14.6)
+Como a ocupação do estado fundamental está preservada na equação (14.6), a distribuição
+discreta pode agora ser substituída por uma distribuição contínua, obtida a partir da função densidade de estados, dada na equação (14.1),
 
-Como a ocupa çao do estado fundamental est ́a preservada na equa çao (14.6), a distribui çao
+{% raw %}
+  $$N = N_0 + \int_{0}^{\inf} n_{BE} D_m(ε) dε = N_0 +AV \int_{0}^{\inf} (\exp{\beta ε+\alpha}-1)^{-1} ε^{1/2} dε$$ 
+ {% endraw %}
 
-discreta pode agora ser substituída por uma distribui çao contínua, obtida a partir da fun çao den-
-sidade de estados, dada na equa çao (14.1),
+ou, adotando-se a troca de variável $z = βε$,
 
-N = N0 +
-Z ∞
-0
-nBE(ε)Dm(ε)dε = N0 + AV Z ∞
-0
-dε ε1/2
-(e
-βε+α − 1)−1
-
-, (1)
-
-ou, adotando-se a troca de vari ́avel z = βε,
-
-N = N0 + AV G(kbT)
-
-3/2G(α), (14.7)
+{% raw %}
+  $$N = N_0 +AV(k_B T)^{3/2} G(\alpha)$$ 
+ {% endraw %} (14.7)
 
 onde
 
-G(α) = Z ∞
-0
-dz z1/2
-(e
-z+α − 1)−1
-. (14.8)
-Para valores muito grandes de α, pode-se adotar somente os dois primeiros termos da
-expans ̃ao da fun çao (e
-z+α − 1)−1
+{% raw %}
+  $$G(\alpha) = \int_{0}^{\inf} dz z^{1/2}(\exp{z+\alpha}-1)^{-1} $$ 
+ {% endraw %} (14.8)
 
-e mostrar que
+Para valores muito grandes de $α$, pode-se adotar somente os dois primeiros termos da
+expansão da função $(e^{z+α}-1)^{−1}$ e mostrar que
 
-G(α) ≈
-√
-π
-2
-e
-−α
-. (14.9)
+{% raw %}
+  $$G(\alpha) \sim \frac{\sqrt{\pi}}{2}\exp{-\alpha} $$ 
+ {% endraw %} (14.9)
 
-Para α = 0, pode-se calcular a integral na equa çao (14.8) e mostrar que
+Para $α = 0$, pode-se calcular a integral na equação (14.8) e mostrar que
 
-G(α) ≈
-√
-π
-2
-2, 612. (14.10)
-Quando α  ́e da ordem de 1/N, isto  ́e, pequeno o suficiente para que G(α) ≈ G(0), a
-equa çao (14.7) resulta em
+{% raw %}
+  $$G(0) =\frac{\sqrt{\pi}}{2} 2,612 $$ 
+ {% endraw %} (14.10)
+
+Quando $α$ é da ordem de $1/N$, isto é, pequeno o suficiente para que $G(α) ≈ G(0)=\frac{\sqrt{\pi}}{2} 2,612$, a equação (14.7) resulta em
 
 N0 = N − AV (kBT)
 3/2
@@ -215,35 +174,23 @@ Com A = m3/2/
 e ρ = N/V sendo a densidade de partículas. A figura abaixo
 mostra a fra çao N0/N de superfluidos N0 na mistura N em fun çao da temperatura T para T ≤ Tc,
 de acordo com a equa çao (14.12).
-No modelo de dois fluidos de London, os N0  ́atomos que foram acrescentados na equa çao
-(14.6) se condensaram no estado fundamental. S ̃ao estes  ́atomos que constituem o superfluido. Os
-N − N0  ́atomos restantes constituem o fluido normal.
 
-A concordˆancia do valor te ́orico da temperatura crítica Tc = 3, 1K com o valor experimen-
-tal da temperatura do ponto lambda, Tc = 2, 17K, pode ser considerada razo ́avel, particularmente
+No modelo de dois fluidos de London, os $N_0$ átomos que foram acrescentados na equação
+(14.6) se condensaram no estado fundamental. São estes átomos que constituem o superfluido. Os
+$N - N_0$ átomos restantes constituem o fluido normal.
 
-se for levado em considera çao que os c ́alculos te ́oricos se baseiam na hip ́otese de que o H ́elio líquido
-se comporta como um g ́as ideal.
+A concordância do valor teórico da temperatura crítica $T_c = 3,1K$ com o valor experimental da temperatura do ponto lambda, $T_c = 2,17K$, pode ser considerada razoável, particularmente se for levado em considera çao que os cálculos teóricos se baseiam na hipótese de que o Hélio líquido se comporta como um gás ideal.
 
-4
-
-O processo de acumula çao de  ́atomos no estado fundamental a uma temperatura T = 0
- ́e denominada condensa çao de Bose-Einstein. O fenˆomeno foi previsto por Einstein em 1924,
-mas levou mais de 70 anos para ser observado em  ́atomos de rubídio, como se ver ́a na pr ́oxima
-se çao.
+O processo de acumulaçao de átomos no estado fundamental a uma temperatura $T = 0$
+é denominada condensação de Bose-Einstein. O fenômeno foi previsto por Einstein em 1924,
+mas levou mais de 70 anos para ser observado em átomos de rubídio, como se verá na próxima
+seção.
 
 2 Exercícios
 
-1 - O que  ́e a condensa çao de Bose-Einstein? Por que  ́atomos de 3He podem formar
+1 - O que é a condensa çao de Bose-Einstein? Por que átomos de $3^He$ podem formar
 condensados de Bose-Einstein, apesar de terem spins semi–inteiros?
-2 - O hidrogˆenio spin polarizado tem sido condensado a uma densidade de ρ = 5 ×
-1024 atomos/m  ́
-3
-. Calcule a temperatura crítica Tc para essa densidade assumindo-se que esse
 
-sistema comporta-se como um g ́as ideal. Resp.: 47mK
+2 - O hidrogênio spin polarizado tem sido condensado a uma densidade de $ρ = 5×10^{24} atomos/m^3$. Calcule a temperatura crítica $T_c$ para essa densidade assumindo-se que esse sistema comporta-se como um gás ideal. Resp.: 47mK
 
-3 - Obtenha a energia total e a capacidade t ́ermica para um g ́as ideal de B ́osons, con-
-siderando que este esteja `a uma temperatura abaixo da temperatura crítica Tc para a condensa çao
-
-de Bose-Einstein.
+3 - Obtenha a energia total e a capacidade térmica para um gás ideal de Bósons, considerando que este esteja à uma temperatura abaixo da temperatura crítica $T_c$ para a condensação de Bose-Einstein.
