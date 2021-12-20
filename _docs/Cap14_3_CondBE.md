@@ -36,8 +36,8 @@ semelhantes a do Hélio I (Hélio com $T > T_c$), e um superfluido de propriedad
 A densidade $\rho_{II}$ do Hélio II seria, então,
 
 {% raw %}
-  $$\rho_{II} = \rho_{s} + \rho_{n}$$ 
- {% endraw %}(14.2)
+  $$\rho_{II} = \rho_{s} + \rho_{n}~~~~~~  (14.2) $$ 
+ {% endraw %}
 
 onde $\rho_{s}$é a densidade do superfluido e $\rho_{n}$é a densidade do fluido normal. Quando a temperaturaé reduzida a partir do ponto $\lambda$, a fração da fase super-fluida aumenta e a fração do fluido normal diminui, até restar somente a fase super-fluida no zero absoluto $(T = 0)$.
 
@@ -52,8 +52,8 @@ No capítulo 12 concluiu-se ainda que, para uma distribuiçao de Bose-Einstein, 
 de partículas com energia $ε$ é dado por
 
 {% raw %}
-  $$N = \sum_{ε}n_{BE}(ε) = \sum_{ ε } \frac{ 1 }{ \exp{\beta ε +\alpha } - 1}$$ 
- {% endraw %}(14.3)
+  $$N = \sum_{ε}n_{BE}(ε) = \sum_{ ε } \frac{ 1 }{ \exp{\beta ε +\alpha } - 1}~~~~~~  (14.3) $$ 
+ {% endraw %}
 
 Como se fez com férmions, poderia-se em princípio substituir a distribuição discreta por
 uma distribuição contínua, uma vez que, em geral, os níveis de energia são numerosos e estão muito próximos. Ocorre, porém, que quando substitui-se a distribuição discreta por uma distribuiçãao contínua, o estado fundamental desaparece. Isso pode ser visto, por exemplo, na equação (14.3), onde $D_n(ε) ∝ ε^{1/2}$ e, portanto, $D_n(ε) = 0$ para $ε = 0$.
@@ -70,22 +70,22 @@ equaçãoo (14.3), assumindo-se uma condiçãoo de contorno de ondas progressiva
 interior de uma caixa grande de comprimento $L$, onde $ε_0 = 0$, isto é,
 
 {% raw %}
-  $$N_0 = (\exp{\alpha } - 1)^{-1}$$ 
- {% endraw %}(14.4)
+  $$N_0 = (\exp{\alpha } - 1)^{-1}~~~~~~  (14.4) $$ 
+ {% endraw %}
 
 Evidentemente, pode-se assumir $α > 0$ tal que $N_0$ é finito e positivo para bósons. E bom lembrar que, no caso de férmions a baixas temperaturas, $α < 0$, pois este é proporcional ao negativo da energia de Fermi $(α = -\beta ε_F )$. Entretanto, nesses casos, $N_0 = (\exp{\alpha } - 1)^{-1}$. Se $α$ é muito pequeno, em particular $α = 1/N$, da expansão em série 
 $\exp{α} = 1 + α + α^2 + ··· ≈ 1 + 1/N$, a equação (14.4) torna-se
 
 {% raw %}
-  $$N_0 ≈ (1 + 1/N - 1)^{-1}=N$$ 
- {% endraw %}(14.5)
+  $$N_0 ≈ (1 + 1/N - 1)^{-1}=N ~~~~~~  (14.5) $$ 
+ {% endraw %}
 
 O número de partículas N para qualquer valor de α, dado na equa çao (14.3), pode ser
 reescrito então como
 
 {% raw %}
-  $$N = N_0 + \sum_{ε\ne 0} \frac{ 1 }{ \exp{\beta ε +\alpha } - 1}$$ 
- {% endraw %}(14.6)
+  $$N = N_0 + \sum_{ε\ne 0} \frac{ 1 }{ \exp{\beta ε +\alpha } - 1}~~~~~~  (14.6) $$ 
+ {% endraw %}
 
 Como a ocupação do estado fundamental está preservada na equação (14.6), a distribuição
 discreta pode agora ser substituída por uma distribuição contínua, obtida a partir da função densidade de estados, dada na equação (14.1),
@@ -97,27 +97,27 @@ discreta pode agora ser substituída por uma distribuição contínua, obtida a 
 ou, adotando-se a troca de variável $z = βε$,
 
 {% raw %}
-  $$N = N_0 +AV(k_B T)^{3/2} G(\alpha)$$ 
- {% endraw %} (14.7)
+  $$N = N_0 +AV(k_B T)^{3/2} G(\alpha)~~~~~~  (14.7) $$ 
+ {% endraw %}
 
 onde
 
 {% raw %}
-  $$G(\alpha) = \int_{0}^{\inf} dz z^{1/2}(\exp{z+\alpha}-1)^{-1} $$ 
- {% endraw %} (14.8)
+  $$G(\alpha) = \int_{0}^{\inf} dz z^{1/2}(\exp{z+\alpha}-1)^{-1} ~~~~~~  (14.8) $$ 
+ {% endraw %}
 
 Para valores muito grandes de $α$, pode-se adotar somente os dois primeiros termos da
 expansão da função $(e^{z+α}-1)^{−1}$ e mostrar que
 
 {% raw %}
-  $$G(\alpha) \sim \frac{\sqrt{\pi}}{2}\exp{-\alpha} $$ 
- {% endraw %} (14.9)
+  $$G(\alpha) \sim \frac{\sqrt{\pi}}{2}\exp{-\alpha} ~~~~~~  (14.9) $$ 
+ {% endraw %}
 
 Para $α = 0$, pode-se calcular a integral na equação (14.8) e mostrar que
 
 {% raw %}
-  $$G(0) =\frac{\sqrt{\pi}}{2} 2,612 $$ 
- {% endraw %} (14.10)
+  $$G(0) =\frac{\sqrt{\pi}}{2} 2,612~~~~~~  (14.10)  $$ 
+ {% endraw %}
 
 Quando $α$ é da ordem de $1/N$, isto é, pequeno o suficiente para que $G(α) ≈ G(0)=\frac{\sqrt{\pi}}{2} 2,612$, a equação (14.7) resulta em
 
@@ -181,7 +181,7 @@ O processo de acumulaçao de átomos no estado fundamental a uma temperatura $T 
 mas levou mais de 70 anos para ser observado em átomos de rubídio, como se verá na próxima
 seção.
 
-2 Exercícios
+## Exercícios
 
 1 - O que é a condensa çao de Bose-Einstein? Por que átomos de $3^He$ podem formar
 condensados de Bose-Einstein, apesar de terem spins semi–inteiros?
