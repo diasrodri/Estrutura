@@ -154,7 +154,7 @@ seção.
 
 ## Exercícios
 
-1 - O que é a condensa çao de Bose-Einstein? Por que átomos de $3^He$ podem formar
+1 - O que é a condensa çao de Bose-Einstein? Por que átomos de $^3He$ podem formar
 condensados de Bose-Einstein, apesar de terem spins semi–inteiros?
 
 2 - O hidrogênio spin polarizado tem sido condensado a uma densidade de $ρ = 5×10^{24} atomos/m^3$. Calcule a temperatura crítica $T_c$ para essa densidade assumindo-se que esse sistema comporta-se como um gás ideal. Resp.: 47mK
