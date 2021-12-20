@@ -52,7 +52,7 @@ No capítulo 12 concluiu-se ainda que, para uma distribuiçao de Bose-Einstein, 
 de partículas com energia $ε$ é dado por
 
 {% raw %}
-  $$N = \sum_{ε}n_{BE}(ε) = \sum_{ ε } \frac{ 1 }{ \exp{\beta ε +\alpha } - 1}~~~~~~  (14.3) $$ 
+  $$N = \sum_{ε}n_{BE}(ε) = \sum_{ ε } \frac{ 1 }{ e^{\beta ε +\alpha} - 1}~~~~~~  (14.3) $$ 
  {% endraw %}
 
 Como se fez com férmions, poderia-se em princípio substituir a distribuição discreta por
@@ -70,7 +70,7 @@ equaçãoo (14.3), assumindo-se uma condiçãoo de contorno de ondas progressiva
 interior de uma caixa grande de comprimento $L$, onde $ε_0 = 0$, isto é,
 
 {% raw %}
-  $$N_0 = (\exp{\alpha } - 1)^{-1}~~~~~~  (14.4) $$ 
+  $$N_0 = (e^{\alpha} - 1)^{-1}~~~~~~  (14.4) $$ 
  {% endraw %}
 
 Evidentemente, pode-se assumir $α > 0$ tal que $N_0$ é finito e positivo para bósons. E bom lembrar que, no caso de férmions a baixas temperaturas, $α < 0$, pois este é proporcional ao negativo da energia de Fermi $(α = -\beta ε_F )$. Entretanto, nesses casos, $N_0 = (\exp{\alpha } - 1)^{-1}$. Se $α$ é muito pequeno, em particular $α = 1/N$, da expansão em série 
@@ -84,7 +84,7 @@ O número de partículas N para qualquer valor de α, dado na equa çao (14.3), 
 reescrito então como
 
 {% raw %}
-  $$N = N_0 + \sum_{ε\ne 0} \frac{ 1 }{ \exp{\beta ε +\alpha } - 1}~~~~~~  (14.6) $$ 
+  $$N = N_0 + \sum_{ε\ne 0} \frac{ 1 }{ e^{\beta ε +\alpha} - 1}~~~~~~  (14.6) $$ 
  {% endraw %}
 
 Como a ocupação do estado fundamental está preservada na equação (14.6), a distribuição
@@ -103,14 +103,14 @@ ou, adotando-se a troca de variável $z = βε$,
 onde
 
 {% raw %}
-  $$G(\alpha) = \int_{0}^{\inf} dz z^{1/2}(\exp{z+\alpha}-1)^{-1} ~~~~~~  (14.8) $$ 
+  $$G(\alpha) = \int_{0}^{\inf} dz z^{1/2}(e^{z+\alpha}-1)^{-1} ~~~~~~  (14.8) $$ 
  {% endraw %}
 
 Para valores muito grandes de $α$, pode-se adotar somente os dois primeiros termos da
 expansão da função $(e^{z+α}-1)^{−1}$ e mostrar que
 
 {% raw %}
-  $$G(\alpha) \sim \frac{\sqrt{\pi}}{2}\exp{-\alpha} ~~~~~~  (14.9) $$ 
+  $$G(\alpha) \sim \frac{\sqrt{\pi}}{2}e^{-\alpha} ~~~~~~  (14.9) $$ 
  {% endraw %}
 
 Para $α = 0$, pode-se calcular a integral na equação (14.8) e mostrar que
@@ -121,54 +121,25 @@ Para $α = 0$, pode-se calcular a integral na equação (14.8) e mostrar que
 
 Quando $α$ é da ordem de $1/N$, isto é, pequeno o suficiente para que $G(α) ≈ G(0)=\frac{\sqrt{\pi}}{2} 2,612$, a equação (14.7) resulta em
 
-N0 = N − AV (kBT)
-3/2
-√
-π
-2
-2, 612. (14.11)
-
-3
-
-Figure 1: Comportamento da fra çao N0/N em fun çao da temperatura T
-
+{% raw %}
+  $$N_0=N-AV(k_B T)^{3/2} \frac{\sqrt{\pi}}{2} 2,612~~~~~~  (14.11)  $$ 
+ {% endraw %}
+ 
 ou
 
-N0
-N
-= 1 −
-
-T
-Tc
-3/2
-, (14.12)
+{% raw %}
+  $$\frac{N_0}{N}=1-\left(\frac{T}{T_c}\right)^{3/2} ~~~~~~  (14.12)  $$ 
+ {% endraw %}
 
 onde
 
-Tc =
-1
-kB
+{% raw %}
+  $$T_c = \frac{1}{k_B} \left( \frac{2N}{VA\sqrt{\pi}2,612} \right)^{2/3} = \frac{2\pi\hbar^2}{k_B m}\left(\frac{\rho}{2,612}\right)^{2/3} ~~~~~~  (14.13)  $$ 
+ {% endraw %}
 
-2N
-V A√
-π2, 6122/3
-=
-2πħ
-2
-kBm
+Com $A = m^{3/2}/\sqrt{2}\pi^2\hbar^3$ e $\rho = N/V$ sendo a densidade de partículas. A figura abaixo mostra a fração $N_0/N$ de superfluidos $N_0$ na mistura $N$ em função da temperatura $T$ para $T ≤ T_c$, de acordo com a equação (14.12).
 
-ρ
-2, 6122/3
-. (14.13)
-
-Com A = m3/2/
-√
-2π
-2ħ
-3
-e ρ = N/V sendo a densidade de partículas. A figura abaixo
-mostra a fra çao N0/N de superfluidos N0 na mistura N em fun çao da temperatura T para T ≤ Tc,
-de acordo com a equa çao (14.12).
+**Inserir figuraaaaaaaaa**
 
 No modelo de dois fluidos de London, os $N_0$ átomos que foram acrescentados na equação
 (14.6) se condensaram no estado fundamental. São estes átomos que constituem o superfluido. Os
