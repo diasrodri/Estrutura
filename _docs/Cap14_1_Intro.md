@@ -64,14 +64,14 @@ em uma ordem regular, ou seja, um sólido. Mas os átomos de hélio são tão le
 fracamente atraídos uns pelos outros que, mesmo quando os movimentos atômicos
 comuns se acalmam, os átomos de hélio balançam com o movimento do ponto zero.
 
-Consequentemente, não se estabilizam no estado sólido. 2 Ou seja, a energia potencial
+Consequentemente, não se estabilizam no estado sólido. Ou seja, a energia potencial
 da interação entre os átomos de hélio é muito pequena, e como átomos de hélio têm
 uma massa pequena, o movimento devido à energia de ponto zero é grande, tão
 grande, que a energia cinética é maior que a energia potencial da interação, o que
 impede que o material se solidifique. Três anos depois de conseguir liquefazer o
  Hélio, Karmeling descobriu que, para alguns materiais, existe uma temperatura crítica , abaixo da qual a resistividade elétrica é nula, tornando-se um supercondutor. 
 
-A experiência de Karmeling foi realizada com mercúrio, cuja temperatura crítica mostrava-se da ordem de 4,2K. Na ocasião, Onnes percebeu que a resistividade do mercúrio repentinamente tornava-se nula quando atingia essa temperatura. A temperatura crítica varia de material para
+A experiência de Karmeling foi realizada com mercúrio, cuja temperatura crítica mostrava-se da ordem de $4,2K$. Na ocasião, Onnes percebeu que a resistividade do mercúrio repentinamente tornava-se nula quando atingia essa temperatura. A temperatura crítica varia de material para
 material, mas abaixo dessa temperatura a resistência elétrica é tão pequena que não
 pode ser medida.
 
