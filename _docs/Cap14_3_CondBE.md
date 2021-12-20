@@ -91,7 +91,7 @@ Como a ocupação do estado fundamental está preservada na equação (14.6), a 
 discreta pode agora ser substituída por uma distribuição contínua, obtida a partir da função densidade de estados, dada na equação (14.1),
 
 {% raw %}
-  $$N = N_0 + \int_{0}^{\inf} n_{BE} D_m(ε) dε = N_0 +AV \int_{0}^{\inf} (\exp{\beta ε+\alpha}-1)^{-1} ε^{1/2} dε$$ 
+  $$N = N_0 + \int_{0}^{\inf} n_{BE} D_m(ε) dε = N_0 +AV \int_{0}^{\inf} (e^{\beta ε+\alpha}-1)^{-1} ε^{1/2} dε$$ 
  {% endraw %}
 
 ou, adotando-se a troca de variável $z = βε$,
