@@ -15,7 +15,7 @@ $$\LaTeX code$$   (for display)
   $$a^2 + b^2 = c^2$$ 
  {% endraw %}
  
-note that all equations between these tags will not need escaping! 
+note that all equations  \[$ d^2 \vec{c}$\] between these tags will not need escaping! 
 
 \[$ d^2 \vec{c}$\]
  
