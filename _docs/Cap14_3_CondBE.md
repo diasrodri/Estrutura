@@ -11,8 +11,9 @@ Heitor Ribeiro
 October 2021
 
 Condensado De Bose-Einstein
-Viu-se no cap ́ıtulo 12 que, para qualquer estat ́ıstica, a densidade de estados de energia ε para
-um sistema de part ́ıculas de massa m seria
+
+Viu-se no capítulo 12 que, para qualquer estatística, a densidade de estados de energia $ε$ para
+um sistema de partıculas de massa $m$ seria
 
 {% raw %}
   $$D_m(E) = 3/2 m \sqrt{2\pi}$$ 
