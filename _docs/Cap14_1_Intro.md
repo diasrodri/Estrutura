@@ -19,6 +19,8 @@ note that all equations  \[$ d^2 \vec{c}$\] between these tags will not need esc
 
 \[$ d^2 \vec{c}$\]
 
+
+
 Exemplos de equação latex remover depois.
 
 {% include alert.html type="info" title="Here is another!" %}
