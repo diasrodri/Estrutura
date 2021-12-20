@@ -21,14 +21,14 @@ um sistema de partıculas de massa $m$ seria
 
 
 {% raw %}
-  $$a^2 + b^2 = c^2$$ 
+  $$D_m(ε) = \frac{ m^{3/2} }{ \sqrt{2}\pi^2\hbar^3 } V ε^{1/2}$$ 
  {% endraw %}
 
 onde $V$ e o volume do sistema e $A = m^{3/2}/\sqrt{2}\pi^2\hbar^3$
 
 Para um gas em condições normais, geralmente a diferença entre as distribuições de
 Maxwell-Boltzmann e Bose-Einstein é pequena. Isso ocorre porque nestes casos a densidade de
-partículas $\rho$ é pequena ou porque o volume $V = N/\rho$ ́é grande, de modo que há um número elevado de estados quânticos por partícula, ou seja, uma alta densidade de estados $D_m (ε)$.
+partículas $\rho$ é pequena ou porque o volume $V = N/\rho$ é grande, de modo que há um número elevado de estados quânticos por partícula, ou seja, uma alta densidade de estados $D_m (ε)$.
 No caso do Helio lıquido, entretanto, a temperatura T é baixa e o comprimento de onda
 térmico de de Broglie, $\lambda_{th} ∝ T^{-1/2}$, dada na eq.(12.75) do Capítulo 12, não e pequeno o suficiente para que usemos a estatística clássica.
 
