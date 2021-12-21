@@ -18,6 +18,8 @@ uma temperatura continuava sendo observada, como mostra a Fig. 14.1 (b)
 
 (a) (b)
 
+![assets\img\image12.png](assets\img\image12.png)
+
 Figura 1 4.1 - Comportamento em função da temperatura
 
 da (a) densidade (b) calor específico do
