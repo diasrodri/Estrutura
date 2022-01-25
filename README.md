@@ -99,3 +99,24 @@ You can then open your browser to [http://localhost:4000](http://localhost:4000)
 to see the server running.
 
 > Node : changes `baseurl: ""` in _config.yml  when you are running in local and prod according to the requirement.
+
+
+Exemplos de equação latex remover depois.
+
+$$\LaTeX code$$   (for display)
+
+\\[\LaTeX code\\] (also for display)
+
+\\(\LaTeX code\\) (for inline)
+
+{% raw %}
+  $$a^2 + b^2 = c^2$$ 
+ {% endraw %}
+ 
+note that all equations  \[$ d^2 \vec{c}$\] between these tags will not need escaping! 
+
+\[$ d^2 \vec{c}$\]
+
+
+
+Exemplos de equação latex remover depois.

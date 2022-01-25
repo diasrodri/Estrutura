@@ -5,25 +5,7 @@ description: Superfluidez e Supercondutividade.
 
 https://www.youtube.com/watch?v=wCOInE7-E0I
 
-Exemplos de equação latex remover depois.
 
-$$\LaTeX code$$   (for display)
-
-\\[\LaTeX code\\] (also for display)
-
-\\(\LaTeX code\\) (for inline)
-
-{% raw %}
-  $$a^2 + b^2 = c^2$$ 
- {% endraw %}
- 
-note that all equations  \[$ d^2 \vec{c}$\] between these tags will not need escaping! 
-
-\[$ d^2 \vec{c}$\]
-
-
-
-Exemplos de equação latex remover depois.
 
 {% include alert.html type="info" title="Here is another!" %}
 
